@@ -1,0 +1,4 @@
+port: 11000 # 端口
+git:
+  branch: dev # 分支
+  dockerfile: # dockerfile
